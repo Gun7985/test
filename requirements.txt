@@ -9,3 +9,9 @@ folium
 streamlit-folium
 pandas
 pydub
+langchain-community
+langchain-openai
+streamlit-option-menu
+requests
+langchain-huggingface
+langchain-qdrant
