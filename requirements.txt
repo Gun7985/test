@@ -1,0 +1,11 @@
+streamlit
+torch
+transformers
+qdrant-client
+langchain
+openai
+python-dotenv
+folium
+streamlit-folium
+pandas
+pydub
